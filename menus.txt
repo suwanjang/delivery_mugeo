@@ -2,5 +2,5 @@
 1,떡볶이,3000,http://www.jawsfood.com/uploads/product/20180605409363.png
 2,튀김,500,http://www.jawsfood.com/uploads/product/20180605695844.png
 
-뚝담
+뚝담, https://raw.githubusercontent.com/suwanjang/delivery_mugeo/master/image/%EB%9A%9D%EB%8B%B4.png
 1,돼지국밥,7000,http://www.busan.com/nas/wcms/wcms_data/photos/2019/10/31/2019103120003838156_l.jpg

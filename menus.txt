@@ -1,4 +1,4 @@
-구구분식
+구구분식, https://raw.githubusercontent.com/suwanjang/delivery_mugeo/master/image/99%EB%B6%84%EC%8B%9D.png
 1,떡볶이,3000,http://www.jawsfood.com/uploads/product/20180605409363.png
 2,튀김,500,http://www.jawsfood.com/uploads/product/20180605695844.png
 
